@@ -1,3 +1,0 @@
-'''
-Axel Hervey Cruz Baez
-'''
