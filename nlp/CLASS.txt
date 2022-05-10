@@ -1,0 +1,3 @@
+set CLASSPATH=.;c:\JADE\jade\lib\jade.jar;%CLASSPATH%
+
+java jade.Boot -gui -agents a1:MiPrimerAgente
