@@ -1,3 +1,6 @@
+'''Axel Hervey Cruz Baez'''
+'''Oswaldo Carrillo Zepeda'''
+
 import re
 
 carpeta_nombre="C:\\Users\\axelb\\Desktop\\nlp\\Docs\\"
