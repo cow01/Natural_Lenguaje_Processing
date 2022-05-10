@@ -1,3 +1,6 @@
+'''Axel Hervey Cruz Baez'''
+'''Oswaldo Carrillo Zepeda'''
+
 import nltk
 import matplotlib.pyplot as plt
 from matplotlib import rcParams
